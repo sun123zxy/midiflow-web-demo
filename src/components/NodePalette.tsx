@@ -32,9 +32,6 @@ export function NodePalette() {
 
   const loadDemo = useCallback(async () => {
     try {
-      // Parse the example.mdf content
-      const project = JSON.parse(exampleMDF);
-      
       // Create a fake File object for importProject
       const blob = new Blob([exampleMDF], { type: 'application/json' });
       const file = new File([blob], 'example.mdf', { type: 'application/json' });
@@ -147,7 +144,7 @@ export function NodePalette() {
           type: 'modifier',
           modifierType: modifierName as any,
           params: params as any,
-          name: `${modifierDef?.label || modifierName} ${modifierCount}`,
+          name: `${modifierDef?.displayName || modifierName} ${modifierCount}`,
         },
       };
 

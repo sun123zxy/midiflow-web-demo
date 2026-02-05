@@ -75,7 +75,7 @@ const initialState = {
 };
 
 export const useTimelineStore = create<TimelineState>()(
-  immer((set, get) => ({
+  immer((set) => ({
     ...initialState,
     
     addItem: (item) => {
