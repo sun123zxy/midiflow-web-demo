@@ -2,6 +2,8 @@
 
 An online MIDI sequencer equipped with a pipeline-based pattern generation system. Create complex MIDI patterns with a visual node graph, arrange them on a timeline, and output to MIDI.
 
+[Try Demo Online](https://sun123zxy.github.io/midiflow-web-demo/)
+
 ## Limitations
 
 We developed this project as an early prototype to explore the concept of a frontend MIDI sequencer with a pipeline-based pattern generation system. As such, it has several limitations:
