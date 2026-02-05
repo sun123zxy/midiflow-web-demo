@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
-  "createdAt": "2026-02-05T07:19:17.000Z",
-  "updatedAt": "2026-02-05T07:19:17.000Z",
+  "createdAt": "2026-02-05T14:47:16.114Z",
+  "updatedAt": "2026-02-05T14:47:16.114Z",
   "settings": {
     "tempo": 130,
     "beatsPerMeasure": 4,
     "beatUnit": 4,
     "ppq": 480,
     "timelineLeftBorder": -1,
-    "timelineRightBorder": 50,
+    "timelineRightBorder": 100,
     "patternEditorLeftBorder": -1,
     "patternEditorRightBorder": 16
   },
@@ -993,49 +993,7 @@
               ],
               [
                 {
-                  "n": 2,
-                  "d": 1
-                },
-                {
-                  "duration": {
-                    "n": 1,
-                    "d": 1
-                  },
-                  "note": 71,
-                  "velocity": 80
-                }
-              ],
-              [
-                {
                   "n": 0,
-                  "d": 1
-                },
-                {
-                  "duration": {
-                    "n": 1,
-                    "d": 1
-                  },
-                  "note": 64,
-                  "velocity": 80
-                }
-              ],
-              [
-                {
-                  "n": 2,
-                  "d": 1
-                },
-                {
-                  "duration": {
-                    "n": 1,
-                    "d": 1
-                  },
-                  "note": 66,
-                  "velocity": 80
-                }
-              ],
-              [
-                {
-                  "n": 1,
                   "d": 1
                 },
                 {
@@ -1242,6 +1200,48 @@
                   "note": 83,
                   "velocity": 80
                 }
+              ],
+              [
+                {
+                  "n": 2,
+                  "d": 1
+                },
+                {
+                  "duration": {
+                    "n": 1,
+                    "d": 1
+                  },
+                  "note": 66,
+                  "velocity": 80
+                }
+              ],
+              [
+                {
+                  "n": 2,
+                  "d": 1
+                },
+                {
+                  "duration": {
+                    "n": 1,
+                    "d": 1
+                  },
+                  "note": 71,
+                  "velocity": 80
+                }
+              ],
+              [
+                {
+                  "n": 1,
+                  "d": 1
+                },
+                {
+                  "duration": {
+                    "n": 1,
+                    "d": 1
+                  },
+                  "note": 67,
+                  "velocity": 80
+                }
               ]
             ],
             "duration": {
@@ -1275,7 +1275,7 @@
                     "d": 4
                   },
                   "note": 71,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1289,7 +1289,7 @@
                     "d": 4
                   },
                   "note": 72,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1303,7 +1303,7 @@
                     "d": 4
                   },
                   "note": 64,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1317,7 +1317,7 @@
                     "d": 8
                   },
                   "note": 64,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1331,7 +1331,7 @@
                     "d": 8
                   },
                   "note": 69,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1345,7 +1345,7 @@
                     "d": 8
                   },
                   "note": 72,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1359,7 +1359,7 @@
                     "d": 8
                   },
                   "note": 71,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1373,7 +1373,7 @@
                     "d": 8
                   },
                   "note": 71,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1387,7 +1387,7 @@
                     "d": 8
                   },
                   "note": 72,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1401,63 +1401,35 @@
                     "d": 1
                   },
                   "note": 74,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
                 {
-                  "n": 3,
-                  "d": 1
+                  "n": 21,
+                  "d": 8
                 },
                 {
                   "duration": {
                     "n": 1,
-                    "d": 2
+                    "d": 8
                   },
-                  "note": 72,
-                  "velocity": 80
+                  "note": 69,
+                  "velocity": 75
                 }
               ],
               [
                 {
-                  "n": 7,
-                  "d": 2
+                  "n": 31,
+                  "d": 8
                 },
                 {
                   "duration": {
-                    "n": 1,
-                    "d": 4
-                  },
-                  "note": 71,
-                  "velocity": 80
-                }
-              ],
-              [
-                {
-                  "n": 15,
-                  "d": 4
-                },
-                {
-                  "duration": {
-                    "n": 1,
-                    "d": 4
-                  },
-                  "note": 62,
-                  "velocity": 80
-                }
-              ],
-              [
-                {
-                  "n": 4,
-                  "d": 1
-                },
-                {
-                  "duration": {
-                    "n": 1,
-                    "d": 2
+                    "n": 5,
+                    "d": 8
                   },
                   "note": 64,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1471,7 +1443,7 @@
                     "d": 8
                   },
                   "note": 64,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1485,7 +1457,7 @@
                     "d": 8
                   },
                   "note": 67,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1499,7 +1471,7 @@
                     "d": 8
                   },
                   "note": 60,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1513,7 +1485,7 @@
                     "d": 8
                   },
                   "note": 62,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1527,7 +1499,7 @@
                     "d": 1
                   },
                   "note": 57,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1541,7 +1513,7 @@
                     "d": 8
                   },
                   "note": 60,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1555,7 +1527,7 @@
                     "d": 4
                   },
                   "note": 59,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1569,7 +1541,7 @@
                     "d": 8
                   },
                   "note": 64,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1583,7 +1555,7 @@
                     "d": 8
                   },
                   "note": 71,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1597,7 +1569,7 @@
                     "d": 8
                   },
                   "note": 72,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1611,7 +1583,7 @@
                     "d": 8
                   },
                   "note": 74,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1625,7 +1597,7 @@
                     "d": 4
                   },
                   "note": 72,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1639,7 +1611,7 @@
                     "d": 4
                   },
                   "note": 71,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1653,7 +1625,7 @@
                     "d": 16
                   },
                   "note": 72,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1667,7 +1639,7 @@
                     "d": 16
                   },
                   "note": 71,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1681,7 +1653,7 @@
                     "d": 4
                   },
                   "note": 67,
-                  "velocity": 80
+                  "velocity": 75
                 }
               ],
               [
@@ -1695,7 +1667,105 @@
                     "d": 8
                   },
                   "note": 69,
-                  "velocity": 80
+                  "velocity": 75
+                }
+              ],
+              [
+                {
+                  "n": 11,
+                  "d": 4
+                },
+                {
+                  "duration": {
+                    "n": 1,
+                    "d": 8
+                  },
+                  "note": 71,
+                  "velocity": 75
+                }
+              ],
+              [
+                {
+                  "n": 23,
+                  "d": 8
+                },
+                {
+                  "duration": {
+                    "n": 1,
+                    "d": 4
+                  },
+                  "note": 72,
+                  "velocity": 75
+                }
+              ],
+              [
+                {
+                  "n": 25,
+                  "d": 8
+                },
+                {
+                  "duration": {
+                    "n": 1,
+                    "d": 8
+                  },
+                  "note": 69,
+                  "velocity": 75
+                }
+              ],
+              [
+                {
+                  "n": 29,
+                  "d": 8
+                },
+                {
+                  "duration": {
+                    "n": 1,
+                    "d": 4
+                  },
+                  "note": 62,
+                  "velocity": 75
+                }
+              ],
+              [
+                {
+                  "n": 27,
+                  "d": 8
+                },
+                {
+                  "duration": {
+                    "n": 1,
+                    "d": 8
+                  },
+                  "note": 71,
+                  "velocity": 75
+                }
+              ],
+              [
+                {
+                  "n": 7,
+                  "d": 2
+                },
+                {
+                  "duration": {
+                    "n": 1,
+                    "d": 8
+                  },
+                  "note": 67,
+                  "velocity": 75
+                }
+              ],
+              [
+                {
+                  "n": 13,
+                  "d": 4
+                },
+                {
+                  "duration": {
+                    "n": 1,
+                    "d": 8
+                  },
+                  "note": 64,
+                  "velocity": 75
                 }
               ]
             ],
@@ -1712,8 +1782,8 @@
         "id": "modifier-1770273858273",
         "type": "modifier",
         "position": {
-          "x": 651.5380903108351,
-          "y": 425.1431865265547
+          "x": 603.5380903108351,
+          "y": 599.1431865265547
         },
         "data": {
           "type": "modifier",
@@ -1727,7 +1797,7 @@
             },
             "endTime": {
               "__type": "Fraction",
-              "n": 4,
+              "n": 3,
               "d": 1
             }
           },
@@ -1739,8 +1809,8 @@
         "id": "modifier-1770273858926",
         "type": "modifier",
         "position": {
-          "x": 797.1652103636691,
-          "y": 436.9967544209688
+          "x": 723.1652103636691,
+          "y": 608.9967544209687
         },
         "data": {
           "type": "modifier",
@@ -1757,8 +1827,8 @@
         "id": "modifier-1770273879988",
         "type": "modifier",
         "position": {
-          "x": 957.8128607853782,
-          "y": 420.61921677914813
+          "x": 1016.529962588191,
+          "y": 607.7135161782105
         },
         "data": {
           "type": "modifier",
@@ -1767,7 +1837,7 @@
             "modifier": "transpose",
             "semitones": -12
           },
-          "name": "Pattern 3b"
+          "name": "Pattern 3b trim"
         },
         "selected": false
       },
@@ -1830,7 +1900,7 @@
         "type": "modifier",
         "position": {
           "x": 1214.1855482896756,
-          "y": 419.27122274832817
+          "y": 597.2712227483282
         },
         "data": {
           "type": "modifier",
@@ -1841,14 +1911,14 @@
           },
           "name": "Pattern 3 bb trim"
         },
-        "selected": true
+        "selected": false
       },
       {
         "id": "modifier-1770275238906",
         "type": "modifier",
         "position": {
-          "x": 1208.8857705096163,
-          "y": 723.0616419959001
+          "x": 1210.8857705096163,
+          "y": 749.0616419959001
         },
         "data": {
           "type": "modifier",
@@ -1865,8 +1935,8 @@
         "id": "modifier-1770275325738",
         "type": "modifier",
         "position": {
-          "x": 1210.781094115791,
-          "y": 576.5176957228614
+          "x": 1239.2956811342929,
+          "y": 414.2688381167735
         },
         "data": {
           "type": "modifier",
@@ -1876,6 +1946,87 @@
             "semitones": -15
           },
           "name": "Pattern 3 bb"
+        },
+        "selected": false
+      },
+      {
+        "id": "modifier-1770299598312",
+        "type": "modifier",
+        "position": {
+          "x": 729.8609539886342,
+          "y": 872.9240349975631
+        },
+        "data": {
+          "type": "modifier",
+          "modifierType": "trim",
+          "params": {
+            "modifier": "trim",
+            "trimEnd": false
+          },
+          "name": "Pattern 4 trim"
+        },
+        "selected": false
+      },
+      {
+        "id": "modifier-1770299603737",
+        "type": "modifier",
+        "position": {
+          "x": 589.1699093638094,
+          "y": 856.3254948319991
+        },
+        "data": {
+          "type": "modifier",
+          "modifierType": "view",
+          "params": {
+            "modifier": "view",
+            "startTime": {
+              "__type": "Fraction",
+              "n": -1,
+              "d": 1
+            },
+            "endTime": {
+              "__type": "Fraction",
+              "n": 9,
+              "d": 4
+            }
+          },
+          "name": "View 1"
+        },
+        "selected": false
+      },
+      {
+        "id": "modifier-1770300999692",
+        "type": "modifier",
+        "position": {
+          "x": 1044.260010204749,
+          "y": 881.182728294841
+        },
+        "data": {
+          "type": "modifier",
+          "modifierType": "transpose",
+          "params": {
+            "modifier": "transpose",
+            "semitones": -15
+          },
+          "name": "Pattern 4 trim b"
+        },
+        "selected": false
+      },
+      {
+        "id": "modifier-1770301535903",
+        "type": "modifier",
+        "position": {
+          "x": 888.2611780803451,
+          "y": 517.5320922450869
+        },
+        "data": {
+          "type": "modifier",
+          "modifierType": "transpose",
+          "params": {
+            "modifier": "transpose",
+            "semitones": -3
+          },
+          "name": "Pattern 3 b#"
         },
         "selected": false
       }
@@ -1930,10 +2081,34 @@
         "id": "xy-edge__pattern-1770270396376-modifier-1770275238906pattern"
       },
       {
+        "source": "pattern-1770270396376",
+        "target": "modifier-1770299603737",
+        "targetHandle": "pattern",
+        "id": "xy-edge__pattern-1770270396376-modifier-1770299603737pattern"
+      },
+      {
+        "source": "modifier-1770299603737",
+        "target": "modifier-1770299598312",
+        "targetHandle": "pattern",
+        "id": "xy-edge__modifier-1770299603737-modifier-1770299598312pattern"
+      },
+      {
+        "source": "modifier-1770299598312",
+        "target": "modifier-1770300999692",
+        "targetHandle": "pattern",
+        "id": "xy-edge__modifier-1770299598312-modifier-1770300999692pattern"
+      },
+      {
         "source": "pattern-1770269657885",
         "target": "modifier-1770275325738",
         "targetHandle": "pattern",
         "id": "xy-edge__pattern-1770269657885-modifier-1770275325738pattern"
+      },
+      {
+        "source": "modifier-1770273858926",
+        "target": "modifier-1770301535903",
+        "targetHandle": "pattern",
+        "id": "xy-edge__modifier-1770273858926-modifier-1770301535903pattern"
       }
     ]
   },
@@ -1949,36 +2124,9 @@
         "nodeId": "pattern-1770263569604"
       },
       {
-        "id": "item-1770270287254",
-        "time": {
-          "n": 12,
-          "d": 1
-        },
-        "channel": 0,
-        "nodeId": "pattern-1770268628849"
-      },
-      {
-        "id": "item-1770270288814",
-        "time": {
-          "n": 8,
-          "d": 1
-        },
-        "channel": 1,
-        "nodeId": "pattern-1770269657885"
-      },
-      {
-        "id": "item-1770270774490",
-        "time": {
-          "n": 8,
-          "d": 1
-        },
-        "channel": 2,
-        "nodeId": "pattern-1770270396376"
-      },
-      {
         "id": "item-1770273937338",
         "time": {
-          "n": 16,
+          "n": 32,
           "d": 1
         },
         "channel": 1,
@@ -1987,7 +2135,7 @@
       {
         "id": "item-1770273941027",
         "time": {
-          "n": 16,
+          "n": 32,
           "d": 1
         },
         "channel": 0,
@@ -1996,7 +2144,7 @@
       {
         "id": "item-1770274177620",
         "time": {
-          "n": 20,
+          "n": 36,
           "d": 1
         },
         "channel": 0,
@@ -2005,7 +2153,7 @@
       {
         "id": "item-1770274192123",
         "time": {
-          "n": 24,
+          "n": 40,
           "d": 1
         },
         "channel": 0,
@@ -2014,25 +2162,16 @@
       {
         "id": "item-1770274320882",
         "time": {
-          "n": 28,
+          "n": 44,
           "d": 1
         },
         "channel": 1,
         "nodeId": "modifier-1770274272086"
       },
       {
-        "id": "item-1770274328654",
-        "time": {
-          "n": 20,
-          "d": 1
-        },
-        "channel": 1,
-        "nodeId": "modifier-1770273858926"
-      },
-      {
         "id": "item-1770274456379",
         "time": {
-          "n": 28,
+          "n": 44,
           "d": 1
         },
         "channel": 0,
@@ -2066,18 +2205,9 @@
         "nodeId": "modifier-1770273858926"
       },
       {
-        "id": "item-1770275426775",
-        "time": {
-          "n": 32,
-          "d": 1
-        },
-        "channel": 2,
-        "nodeId": "modifier-1770275238906"
-      },
-      {
         "id": "item-1770275431672",
         "time": {
-          "n": 32,
+          "n": 48,
           "d": 1
         },
         "channel": 1,
@@ -2086,7 +2216,7 @@
       {
         "id": "item-1770275460768",
         "time": {
-          "n": 32,
+          "n": 48,
           "d": 1
         },
         "channel": 0,
@@ -2095,25 +2225,16 @@
       {
         "id": "item-1770275464700",
         "time": {
-          "n": 36,
+          "n": 52,
           "d": 1
         },
         "channel": 0,
         "nodeId": "modifier-1770274242310"
       },
       {
-        "id": "item-1770275674299",
-        "time": {
-          "n": 40,
-          "d": 1
-        },
-        "channel": 1,
-        "nodeId": "modifier-1770274272086"
-      },
-      {
         "id": "item-1770275699443",
         "time": {
-          "n": 40,
+          "n": 56,
           "d": 1
         },
         "channel": 0,
@@ -2122,7 +2243,7 @@
       {
         "id": "item-1770275789811",
         "time": {
-          "n": 44,
+          "n": 60,
           "d": 1
         },
         "channel": 0,
@@ -2131,18 +2252,189 @@
       {
         "id": "item-1770275806537",
         "time": {
-          "n": 44,
+          "n": 60,
           "d": 1
         },
         "channel": 1,
         "nodeId": "modifier-1770274272086"
+      },
+      {
+        "id": "item-1770299797078",
+        "time": {
+          "n": 8,
+          "d": 1
+        },
+        "channel": 1,
+        "nodeId": "modifier-1770273858926"
+      },
+      {
+        "id": "item-1770299838928",
+        "time": {
+          "n": 7,
+          "d": 1
+        },
+        "channel": 2,
+        "nodeId": "modifier-1770299598312"
+      },
+      {
+        "id": "item-1770299862977",
+        "time": {
+          "n": 12,
+          "d": 1
+        },
+        "channel": 1,
+        "nodeId": "modifier-1770273858926"
+      },
+      {
+        "id": "item-1770299869775",
+        "time": {
+          "n": 12,
+          "d": 1
+        },
+        "channel": 0,
+        "nodeId": "pattern-1770263569604"
+      },
+      {
+        "id": "item-1770300149521",
+        "time": {
+          "n": 16,
+          "d": 1
+        },
+        "channel": 2,
+        "nodeId": "pattern-1770270396376"
+      },
+      {
+        "id": "item-1770300154158",
+        "time": {
+          "n": 16,
+          "d": 1
+        },
+        "channel": 0,
+        "nodeId": "pattern-1770263569604"
+      },
+      {
+        "id": "item-1770300160614",
+        "time": {
+          "n": 20,
+          "d": 1
+        },
+        "channel": 0,
+        "nodeId": "pattern-1770268628849"
+      },
+      {
+        "id": "item-1770300172373",
+        "time": {
+          "n": 16,
+          "d": 1
+        },
+        "channel": 1,
+        "nodeId": "pattern-1770269657885"
+      },
+      {
+        "id": "item-1770300616965",
+        "time": {
+          "n": 24,
+          "d": 1
+        },
+        "channel": 2,
+        "nodeId": "pattern-1770270396376"
+      },
+      {
+        "id": "item-1770300643424",
+        "time": {
+          "n": 28,
+          "d": 1
+        },
+        "channel": 0,
+        "nodeId": "pattern-1770268628849"
+      },
+      {
+        "id": "item-1770300646350",
+        "time": {
+          "n": 24,
+          "d": 1
+        },
+        "channel": 0,
+        "nodeId": "pattern-1770263569604"
+      },
+      {
+        "id": "item-1770300648682",
+        "time": {
+          "n": 24,
+          "d": 1
+        },
+        "channel": 1,
+        "nodeId": "pattern-1770269657885"
+      },
+      {
+        "id": "item-1770300726470",
+        "time": {
+          "n": 11,
+          "d": 1
+        },
+        "channel": 2,
+        "nodeId": "modifier-1770299598312"
+      },
+      {
+        "id": "item-1770300818696",
+        "time": {
+          "n": 40,
+          "d": 1
+        },
+        "channel": 1,
+        "nodeId": "modifier-1770274272086"
+      },
+      {
+        "id": "item-1770301040289",
+        "time": {
+          "n": 39,
+          "d": 1
+        },
+        "channel": 2,
+        "nodeId": "modifier-1770300999692"
+      },
+      {
+        "id": "item-1770301131971",
+        "time": {
+          "n": 43,
+          "d": 1
+        },
+        "channel": 2,
+        "nodeId": "modifier-1770300999692"
+      },
+      {
+        "id": "item-1770301650738",
+        "time": {
+          "n": 56,
+          "d": 1
+        },
+        "channel": 1,
+        "nodeId": "modifier-1770301535903"
+      },
+      {
+        "id": "item-1770301680055",
+        "time": {
+          "n": 36,
+          "d": 1
+        },
+        "channel": 1,
+        "nodeId": "modifier-1770273879988"
+      },
+      {
+        "id": "item-1770301724815",
+        "time": {
+          "n": 48,
+          "d": 1
+        },
+        "channel": 2,
+        "nodeId": "modifier-1770275238906"
       }
     ],
     "channelPrograms": [
       12,
       11,
       24,
-      0,
+      8,
       0,
       0,
       0,
@@ -2195,8 +2487,8 @@
     "pixelsPerBeat": 8,
     "beatsPerMeasure": 4,
     "playbackStartTime": {
-      "n": 127,
-      "d": 4
+      "n": 45,
+      "d": 2
     },
     "snapEnabled": true,
     "snapDenominator": 4
